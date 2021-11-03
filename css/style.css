@@ -126,6 +126,43 @@ h1 {
     width: 2vw;
 }
 
+.profile {
+    margin-left: 2vw;
+    margin-right: 2vw;
+    display: inline-block;
+    text-align: center;
+    width: 20vw;
+    margin-bottom: 4vw;
+}
+
+.profile-title {
+    padding-bottom: 1vw;
+}
+
+.profile-name {
+    padding-top: 1vw;
+    font-size: 1.5vw;
+    padding-bottom: 1vw;
+}
+
+.profile-pic {
+    height: 250px;
+    width: 20vw;
+    border: 0.1vw solid white;
+}
+
+.pic {
+    height: inherit;
+}
+
+.profile-desc {
+    color: #E1FFF8CC;
+}
+
+#profiles {
+    margin-left: 0.5vw;
+}
+
 #social-media {
     padding-bottom: 1vw;
 }
